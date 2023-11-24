@@ -1,4 +1,4 @@
-class Tle < Formula
+class Txview < Formula
   desc "CLI for view block-chain transaction"
   homepage "https://github.com/phantola/txview"
   url "https://github.com/Phantola/txview/releases/download/Latest/txview-0.1.0-apple-silicon.tar.gz"
