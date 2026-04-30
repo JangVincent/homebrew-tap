@@ -1,11 +1,11 @@
 cask "coagent-app" do
-  version "0.1.12"
-  sha256 "d0da78733e59f3de7fb5dcd06a5044047929dc03db9958f6e19c550b85b94edd"
+  version "0.1.15"
+  sha256 "4704e65923d1c30c6b757cd5e60618380c90a449734d06b98c2d6594ee3b3bfc"
 
-  url "https://github.com/JangVincent/coagent-desktop/releases/download/v#{version}/coagent-#{version}-arm64.dmg"
+  url "https://github.com/JangVincent/coagent-app/releases/download/v#{version}/coagent-#{version}-arm64.dmg"
   name "Coagent"
   desc "Desktop app for multi-participant chat for Claude Code agents"
-  homepage "https://github.com/JangVincent/coagent-desktop"
+  homepage "https://github.com/JangVincent/coagent-app"
 
   depends_on arch: :arm64
 
