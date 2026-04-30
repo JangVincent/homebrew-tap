@@ -1,6 +1,6 @@
 cask "moonshine" do
-  version "0.1.5"
-  sha256 "2bab928a5567989d5d35b446ee4c6ba0b8f72cdb9b90f3e92174ecfd5a020b47"
+  version "0.1.6"
+  sha256 "a3cefe5bcce560ff318b2c52fcd3e35a34720a547fb807b51092d38edda9abae"
 
   url "https://github.com/JangVincent/moonshine/releases/download/v#{version}/moonshine_#{version}_aarch64.dmg"
   name "Moonshine"
