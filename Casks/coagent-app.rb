@@ -1,6 +1,6 @@
 cask "coagent-app" do
-  version "0.3.1"
-  sha256 "e005bca263fc34e90ec2084da063ade4378fd642f0b06f61644e266e367f4305"
+  version "0.3.2"
+  sha256 "311bc1bd884e9c3395b1baa4fc17cfdca6898f4bd6ab7bfbcb0a5691f56b004c"
 
   url "https://github.com/JangVincent/coagent-app/releases/download/v#{version}/coagent-#{version}-arm64.dmg"
   name "Coagent"
